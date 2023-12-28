@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+}
+h2,
+p, form {
+  display: flex;
+  justify-content: center;
+}
+footer{
+    margin-top: 25%;
+}
+
